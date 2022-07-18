@@ -1,7 +1,7 @@
 # OPAL2bot
 This bot is used for extracting a parameter from online calculator used for the design of solar cells.
 
-On the [PVLighthouse website](https://www.google.com](https://www2.pvlighthouse.com.au/calculators/opal%202/opal%202.aspx) it inputs the necessary parameters and extracts the generated current value for the entered set of parameters.
+On [PVLighthouse](https://www2.pvlighthouse.com.au/calculators/opal%202/opal%202.aspx) it inputs the necessary parameters and extracts the generated current value for the entered set of parameters.
 
 ## Getting started
 To get started all you need to do is to download main.py from this directory and run it in IDE of your choice.
